@@ -1,3 +1,5 @@
+package constructor;
+
 public class Student5 {
     int id;
     String name;

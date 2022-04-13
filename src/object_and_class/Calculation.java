@@ -1,3 +1,5 @@
+package object_and_class;
+
 public class Calculation {
     void fact(int n) {
         int fact = 1;

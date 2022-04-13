@@ -1,3 +1,5 @@
+package object_and_class;
+
 class Student {
     int rollno;
     String name;

@@ -1,3 +1,5 @@
+package object_and_class;
+
 class Rectangle {
     int length;
     int width;

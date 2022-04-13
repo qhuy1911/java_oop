@@ -1,3 +1,5 @@
+package object_and_class;
+
 class Account {
     int acc_no;
     String name;
