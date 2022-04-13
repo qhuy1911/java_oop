@@ -1,4 +1,4 @@
-package static_variable;
+package static_keyword;
 
 class Student {
     int rollno;
